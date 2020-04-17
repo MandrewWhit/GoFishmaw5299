@@ -1,0 +1,291 @@
+Gon has :  Kc As 5c 8d 9s 3s Ad
+Killua has :  Kd 10s 8h 5h 10h 6d 7d
+Gon: do you have a Kc?
+Killua: Yes. I have a Kc
+Gon has :  5c 8d 9s 3s
+Killua has :  8h 5h 6d 7d
+Killua: do you have a 8h?
+Gon: Yes. I have a 8h
+Gon has :  5c 9s 3s
+Killua has :  5h 6d 7d
+Gon has 2 book(s)
+Killua has 2 book(s)
+Gon: do you have a 5c?
+Killua: Yes. I have a 5c
+Gon has :  9s 3s
+Killua has :  6d 7d
+Killua: do you have a 6d?
+Gon: Sorry. I do not have a 6d, Go Fish!
+Killua drew a 7
+Gon has :  9s 3s
+Killua has :  6d
+Gon has 3 book(s)
+Killua has 3 book(s)
+Gon: do you have a 9s?
+Killua: Sorry. I do not have a 9s, Go Fish!
+Gon drew a A
+Gon has :  9s 3s Ah
+Killua has :  6d
+Killua: do you have a 6d?
+Gon: Sorry. I do not have a 6d, Go Fish!
+Killua drew a Q
+Gon has :  9s 3s Ah
+Killua has :  6d Qh
+Gon has 3 book(s)
+Killua has 3 book(s)
+Gon: do you have a 9s?
+Killua: Sorry. I do not have a 9s, Go Fish!
+Gon drew a 7
+Gon has :  9s 3s Ah 7c
+Killua has :  6d Qh
+Killua: do you have a 6d?
+Gon: Sorry. I do not have a 6d, Go Fish!
+Killua drew a J
+Gon has :  9s 3s Ah 7c
+Killua has :  6d Qh Jd
+Gon has 3 book(s)
+Killua has 3 book(s)
+Gon: do you have a 9s?
+Killua: Sorry. I do not have a 9s, Go Fish!
+Gon drew a 2
+Gon has :  9s 3s Ah 7c 2c
+Killua has :  6d Qh Jd
+Killua: do you have a 6d?
+Gon: Sorry. I do not have a 6d, Go Fish!
+Killua drew a 6
+Gon has :  9s 3s Ah 7c 2c
+Killua has :  Qh Jd
+Gon has 3 book(s)
+Killua has 4 book(s)
+Gon: do you have a 9s?
+Killua: Sorry. I do not have a 9s, Go Fish!
+Gon drew a 2
+Gon has :  9s 3s Ah 7c
+Killua has :  Qh Jd
+Killua: do you have a Qh?
+Gon: Sorry. I do not have a Qh, Go Fish!
+Killua drew a 4
+Gon has :  9s 3s Ah 7c
+Killua has :  Qh Jd 4d
+Gon has 4 book(s)
+Killua has 4 book(s)
+Gon: do you have a 9s?
+Killua: Sorry. I do not have a 9s, Go Fish!
+Gon drew a J
+Gon has :  9s 3s Ah 7c Jc
+Killua has :  Qh Jd 4d
+Killua: do you have a Qh?
+Gon: Sorry. I do not have a Qh, Go Fish!
+Killua drew a 9
+Gon has :  9s 3s Ah 7c Jc
+Killua has :  Qh Jd 4d 9c
+Gon has 4 book(s)
+Killua has 4 book(s)
+Gon: do you have a 9s?
+Killua: Yes. I have a 9s
+Gon has :  3s Ah 7c Jc
+Killua has :  Qh Jd 4d
+Killua: do you have a Qh?
+Gon: Sorry. I do not have a Qh, Go Fish!
+Killua drew a 3
+Gon has :  3s Ah 7c Jc
+Killua has :  Qh Jd 4d 3c
+Gon has 5 book(s)
+Killua has 4 book(s)
+Gon: do you have a 3s?
+Killua: Yes. I have a 3s
+Gon has :  Ah 7c Jc
+Killua has :  Qh Jd 4d
+Killua: do you have a Qh?
+Gon: Sorry. I do not have a Qh, Go Fish!
+Killua drew a K
+Gon has :  Ah 7c Jc
+Killua has :  Qh Jd 4d Ks
+Gon has 6 book(s)
+Killua has 4 book(s)
+Gon: do you have a Ah?
+Killua: Sorry. I do not have a Ah, Go Fish!
+Gon drew a Q
+Gon has :  Ah 7c Jc Qc
+Killua has :  Qh Jd 4d Ks
+Killua: do you have a Qh?
+Gon: Yes. I have a Qh
+Gon has :  Ah 7c Jc
+Killua has :  Jd 4d Ks
+Gon has 6 book(s)
+Killua has 5 book(s)
+Gon: do you have a Ah?
+Killua: Sorry. I do not have a Ah, Go Fish!
+Gon drew a A
+Gon has :  7c Jc
+Killua has :  Jd 4d Ks
+Killua: do you have a Jd?
+Gon: Yes. I have a Jd
+Gon has :  7c
+Killua has :  4d Ks
+Gon has 7 book(s)
+Killua has 6 book(s)
+Gon: do you have a 7c?
+Killua: Sorry. I do not have a 7c, Go Fish!
+Gon drew a 6
+Gon has :  7c 6s
+Killua has :  4d Ks
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a 7
+Gon has :  7c 6s
+Killua has :  4d Ks 7h
+Gon has 7 book(s)
+Killua has 6 book(s)
+Gon: do you have a 7c?
+Killua: Yes. I have a 7c
+Gon has :  6s
+Killua has :  4d Ks
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a 8
+Gon has :  6s
+Killua has :  4d Ks 8s
+Gon has 8 book(s)
+Killua has 6 book(s)
+Gon: do you have a 6s?
+Killua: Sorry. I do not have a 6s, Go Fish!
+Gon drew a Q
+Gon has :  6s Qs
+Killua has :  4d Ks 8s
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a 6
+Gon has :  6s Qs
+Killua has :  4d Ks 8s 6c
+Gon has 8 book(s)
+Killua has 6 book(s)
+Gon: do you have a 6s?
+Killua: Yes. I have a 6s
+Gon has :  Qs
+Killua has :  4d Ks 8s
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a 10
+Gon has :  Qs
+Killua has :  4d Ks 8s 10d
+Gon has 9 book(s)
+Killua has 6 book(s)
+Gon: do you have a Qs?
+Killua: Sorry. I do not have a Qs, Go Fish!
+Gon drew a K
+Gon has :  Qs Kh
+Killua has :  4d Ks 8s 10d
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a 8
+Gon has :  Qs Kh
+Killua has :  4d Ks 10d
+Gon has 9 book(s)
+Killua has 7 book(s)
+Gon: do you have a Qs?
+Killua: Sorry. I do not have a Qs, Go Fish!
+Gon drew a 5
+Gon has :  Qs Kh 5s
+Killua has :  4d Ks 10d
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a J
+Gon has :  Qs Kh 5s
+Killua has :  4d Ks 10d Jh
+Gon has 9 book(s)
+Killua has 7 book(s)
+Gon: do you have a Qs?
+Killua: Sorry. I do not have a Qs, Go Fish!
+Gon drew a 5
+Gon has :  Qs Kh
+Killua has :  4d Ks 10d Jh
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a 10
+Gon has :  Qs Kh
+Killua has :  4d Ks Jh
+Gon has 10 book(s)
+Killua has 8 book(s)
+Gon: do you have a Qs?
+Killua: Sorry. I do not have a Qs, Go Fish!
+Gon drew a J
+Gon has :  Qs Kh Js
+Killua has :  4d Ks Jh
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a 3
+Gon has :  Qs Kh Js
+Killua has :  4d Ks Jh 3h
+Gon has 10 book(s)
+Killua has 8 book(s)
+Gon: do you have a Qs?
+Killua: Sorry. I do not have a Qs, Go Fish!
+Gon drew a 9
+Gon has :  Qs Kh Js 9h
+Killua has :  4d Ks Jh 3h
+Killua: do you have a 4d?
+Gon: Sorry. I do not have a 4d, Go Fish!
+Killua drew a 4
+Gon has :  Qs Kh Js 9h
+Killua has :  Ks Jh 3h
+Gon has 10 book(s)
+Killua has 9 book(s)
+Gon: do you have a Qs?
+Killua: Sorry. I do not have a Qs, Go Fish!
+Gon drew a Q
+Gon has :  Kh Js 9h
+Killua has :  Ks Jh 3h
+Killua: do you have a Ks?
+Gon: Yes. I have a Ks
+Gon has :  Js 9h
+Killua has :  Jh 3h
+Gon has 11 book(s)
+Killua has 10 book(s)
+Gon: do you have a Js?
+Killua: Yes. I have a Js
+Gon has :  9h
+Killua has :  3h
+Killua: do you have a 3h?
+Gon: Sorry. I do not have a 3h, Go Fish!
+Killua drew a 2
+Gon has :  9h
+Killua has :  3h 2d
+Gon has 12 book(s)
+Killua has 10 book(s)
+Gon: do you have a 9h?
+Killua: Sorry. I do not have a 9h, Go Fish!
+Gon drew a 2
+Gon has :  9h 2s
+Killua has :  3h 2d
+Killua: do you have a 3h?
+Gon: Sorry. I do not have a 3h, Go Fish!
+Killua drew a 4
+Gon has :  9h 2s
+Killua has :  3h 2d 4c
+Gon has 12 book(s)
+Killua has 10 book(s)
+Gon: do you have a 9h?
+Killua: Sorry. I do not have a 9h, Go Fish!
+Gon drew a 9
+Gon has :  2s
+Killua has :  3h 2d 4c
+Killua: do you have a 3h?
+Gon: Sorry. I do not have a 3h, Go Fish!
+Killua drew a 4
+Gon has :  2s
+Killua has :  3h 2d
+Gon has 13 book(s)
+Killua has 11 book(s)
+Gon: do you have a 2s?
+Killua: Yes. I have a 2s
+Gon has no cards left
+Killua has :  3h
+Killua: do you have a 3h?
+Gon: Sorry. I do not have a 3h, Go Fish!
+Killua drew a 3
+Gon has no cards left
+Killua has no cards left
+Gon has 14 book(s)
+Killua has 12 book(s)
+Gon WINS!
